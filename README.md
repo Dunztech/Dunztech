@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dunztech
+- 👋 Hi, I’m @Oladunni
 - 👀 I’m interested in software engineering and product designs(UI/UX)
 - 🌱 I’m currently learning software engineering @alx_africa 
 - 💞️ I’m looking to collaborate with professionals in this field 
